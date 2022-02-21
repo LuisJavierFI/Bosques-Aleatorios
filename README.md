@@ -8,13 +8,19 @@ Ningún árbol ve todos los datos de entrenamiento, sino cada uno se entrena con
 Por lo que, los bosques aleatorios son una variación moderna, que agrupan varios árboles de decisión para producir un modelo generalizado con el objetivo de reducir la tendencia al sobreajuste
 
 ** Ventajas**
+
 • Funciona bien para problemas de  clasificación y regresión (pronóstico).
+
 • Al utilizar múltiples árboles se reduce considerablemente el riesgo de  sobreajuste.
+
 • Es estable con nuevas muestras.
 
 **Desventajas**
+
 • Es mayor el costo computacional en comparación con la creación y ejecución de un árbol de decisión.
+
 • Puede requerir mayor tiempo de entrenamiento.
+
 • Puede ser difícil de interpretar debido a las decenas de árboles de decisión creados en el bosque.
 
 ### **Contexto** 
